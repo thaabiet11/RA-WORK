@@ -1,4 +1,5 @@
-﻿internal class Program
+// Your names must be commented here
+internal class Program
 {
     private static void Main(string[] args)
     {
